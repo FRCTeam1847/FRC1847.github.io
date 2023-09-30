@@ -2,7 +2,7 @@
   "name": "frc1847",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://frcteam1847.github.io/FRC1847.github.io/",
+  "homepage": "https://frcteam1847.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
